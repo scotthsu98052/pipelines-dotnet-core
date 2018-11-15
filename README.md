@@ -1,3 +1,5 @@
+[![Build Status](https://scotthsu98052.visualstudio.com/FirstPipeline/_apis/build/status/FirstPipeline-CI)](https://scotthsu98052.visualstudio.com/FirstPipeline/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
